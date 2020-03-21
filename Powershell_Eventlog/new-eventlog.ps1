@@ -1,0 +1,1 @@
+﻿New-EventLog -LogName TestLog -source "SomeScript"
