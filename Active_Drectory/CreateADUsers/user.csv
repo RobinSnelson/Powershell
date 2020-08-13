@@ -1,0 +1,4 @@
+givenname,surname,enabled,Path,ChangePassword
+Henry,Garvie,yes,"OU=Users,OU=Work,DC=heliostech,DC=Local",No
+Tom,Jamieson,No,"OU=Users,OU=Work,DC=heliostech,DC=Local",No
+Sally,Parker,yes,"OU=Users,OU=Work,DC=heliostech,DC=Local",No
