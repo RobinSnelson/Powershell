@@ -351,6 +351,7 @@ MigrationBackup/
 
 #Mac files
 *.DS_Store
+OtherPeoples/
 
 #Terraform
 .terraform/
