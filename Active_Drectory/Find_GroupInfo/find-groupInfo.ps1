@@ -1,4 +1,4 @@
-#set locatin to where the script is
+#set location to where the script is
 Set-Location $PSScriptRoot
 
 #clear the values in the groups variable
