@@ -29,7 +29,6 @@ function New-RSEvent
     
     Param
     (
-        # Param1 help description
         [Parameter(Mandatory=$false,
                    ValueFromPipelineByPropertyName=$true)]
         [string]$logName = 'Application',
